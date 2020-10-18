@@ -1,0 +1,60 @@
+
+body {
+    background-color: #f9fafc;
+}
+
+main {
+    font-family: "Open Sans";
+    position: absolute;
+    margin: .5rem .1rem;
+}
+
+nav {
+    display: block;
+    float: left;  
+}
+
+h1 {
+    position: relative;
+    margin: 2.5rem 2.5rem 1.25rem;
+}
+
+ul {
+    display: block;
+    list-style-type: none;
+}
+
+li {
+    padding: 5px 0px;
+}
+
+a:link {
+    color: #69696a;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #69696a;
+    text-decoration: none;
+}
+
+.buttons button {
+    background-color: #000000;
+    color: #FFFFFF;
+    border: none;
+    text-align: center;
+    padding: 15px;
+    font-size: 16px;
+    display: block;
+    width: 55rem;
+    margin: 0 auto;
+    border-radius: 25px;  
+ 
+}
+
+.info {
+    display: block;
+    color: #69696a;
+    border-left: solid #69696a;
+    padding: 10px;
+}
